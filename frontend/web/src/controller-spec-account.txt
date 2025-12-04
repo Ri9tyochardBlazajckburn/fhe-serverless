@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\controller-spec-account.txt
+// Generated at: 2025-10-05T13:03:32.336Z
